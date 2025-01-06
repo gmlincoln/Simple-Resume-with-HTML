@@ -53,7 +53,3 @@ To use the template:
 1. Clone or download the repository.
 2. Open the HTML file in any web browser to view the resume.
 3. Customize the content to fit your personal details and preferences.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
